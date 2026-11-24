@@ -17,3 +17,8 @@ Software Engineering
 | Go | just try |
 | Production fweb | just try |
 | front end slicep | just try |
+
+Cyber Security
+| Keyword | what to do |
+|---|---|
+| Pentest | just try | 
